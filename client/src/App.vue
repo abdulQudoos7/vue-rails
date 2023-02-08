@@ -1,11 +1,13 @@
 <template>
   <div>
-    <!-- <Posts /> -->
-    <!-- <Interpolation /> -->
-    <!-- <Event /> -->
+    <!-- <Posts />
+    <Interpolation />
+    <Event />
     <TwoWayBinding />
     <SignIn />
-    <CheckBox />
+    <CheckBox /> -->
+    <!-- <ConditionalRendering /> -->
+    <ForLoop />
   </div>
 </template>
 
@@ -16,6 +18,8 @@ import Event from './components/Event.vue';
 import TwoWayBinding from './components/TwoWayBinding.vue';
 import SignIn from './components/SignIn.vue';
 import CheckBox from './components/Checkbox.vue'
+import ConditionalRendering from './components/ConditionalRendering.vue';
+import ForLoop from './components/ForLoop.vue';
 </script>
 
 <style scoped>
