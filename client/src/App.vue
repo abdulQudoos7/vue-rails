@@ -7,7 +7,9 @@
     <SignIn />
     <CheckBox /> -->
     <!-- <ConditionalRendering /> -->
-    <ForLoop />
+    <!-- <ForLoop /> -->
+    <Parent />
+
   </div>
 </template>
 
@@ -20,6 +22,7 @@ import SignIn from './components/SignIn.vue';
 import CheckBox from './components/Checkbox.vue'
 import ConditionalRendering from './components/ConditionalRendering.vue';
 import ForLoop from './components/ForLoop.vue';
+import Parent from './components/Parent.vue';
 </script>
 
 <style scoped>

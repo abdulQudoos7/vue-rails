@@ -4,9 +4,6 @@
         <li v-for="post in post" :key="post.id">Name is : {{ post.name }} and email is : {{ post.email   }}</li>
     </ul>
 
-    <!-- <p>{{ API_URL }}</p> -->
-
-
 </template>
 <script>
 export default{
